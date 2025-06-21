@@ -9,4 +9,4 @@ for i in range(len(num_list)-1):
             swap_count = 1
     if (swap_count == 0):
         break
-print(num_list)
+print(num_list) 
